@@ -2,16 +2,16 @@
 
 A curated list of:
 
-- modern libraries that easily integrate with Vapor and follow Vapor's philosophy of providing simple, clean yet powerful APIs
-- well-written tutorials, books, videos and education materials
-- tools
+- modern libraries that easily integrate with Vapor and follow Vapor's philosophy of providing simple, clean yet powerful APIs,
+- well-written tutorials, books, videos and education materials,
+- tools to make your development proces simpler and more enjoyable
 - and more!
 
 Contributions are welcome in the form of pull requests.
 
 ## How to use
 
-Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
+Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 
 ## Libraries
 
@@ -53,6 +53,12 @@ Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
 
 ### Articles
 
+- ![v2](img/vapor-2.png) [Fluent And Controllers - Part 1](https://geeks.brokenhands.io/blog/posts/fluent-and-controllers-part-1/)
+- ![v2](img/vapor-2.png) [Fluent Part 2 - Parent-Child Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-2-parent-child-relationships/)
+- ![v2](img/vapor-2.png) [Fluent Part 3 - Sibling Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-3-sibling-relationships/)
+- ![v2](img/vapor-2.png) [Fluent Part 4 - Persistence With MySQL And Fluent Patterns](https://geeks.brokenhands.io/blog/posts/fluent-part-4-persistence-with-mysql-and-fluent-patterns/)
+- ![v2](img/vapor-2.png) [Getting started with Vapor](https://geeks.brokenhands.io/blog/posts/getting-started-with-vapor/)
+- ![v2](img/vapor-2.png) [Leaf Part 1 - Getting Started](https://geeks.brokenhands.io/blog/posts/leaf-part-1-getting-started/)
 - ![v2](img/vapor-2.png) [Vapor 2 with Docker](https://bygri.github.io/2018/01/25/vapor-2-with-docker.html) – Definitive Docker guide for Vapor 2.
 - ![v3](img/vapor-3.png) [Vapor 3 with Docker](https://bygri.github.io/2018/01/25/vapor-3-with-docker.html) – Definitive Docker guide for Vapor 3.
 
