@@ -67,6 +67,10 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v3](img/vapor-3.png) [Server Side Swift with Vapor](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
 - ![v3](img/vapor-3.png) [Server-Side Swift (Vapor Edition)](https://www.hackingwithswift.com/store/server-side-swift)
 
+### Newsletters
+
+- [VaporNation](https://twof.github.io/VaporNation/) – Weekly Vapor newsletter with all things Vapor.
+
 ## Open-source Projects
 
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SteamPress](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
