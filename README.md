@@ -7,7 +7,7 @@ A curated list of:
 - tools to make your development proces simpler and more enjoyable
 - and more!
 
-Contributions are welcome in the form of pull requests.
+[![Build Status](https://travis-ci.org/Cellane/awesome-vapor.svg?branch=master)](https://travis-ci.org/Cellane/awesome-vapor) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 ## How to use
 
