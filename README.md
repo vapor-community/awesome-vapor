@@ -1,4 +1,4 @@
-# Awesome Vapor
+# Awesome Vapor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of:
 
@@ -80,3 +80,9 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 ## Open-source Projects
 
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SteamPress](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, *Milan Vit* has waived all copyright and related or neighboring rights to this work.
