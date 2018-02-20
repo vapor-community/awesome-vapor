@@ -4,7 +4,7 @@ A curated list of:
 
 - modern libraries that easily integrate with Vapor and follow Vapor's philosophy of providing simple, clean yet powerful APIs,
 - well-written tutorials, books, videos and education materials,
-- tools to make your development proces simpler and more enjoyable
+- tools to make your development process simpler and more enjoyable
 - and more!
 
 [![Build Status](https://travis-ci.org/Cellane/awesome-vapor.svg?branch=master)](https://travis-ci.org/Cellane/awesome-vapor) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
@@ -90,4 +90,4 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, *Milan Vit* has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, *Milan Vit* has waived all copyright and related or neighbouring rights to this work.
