@@ -1,8 +1,8 @@
-<!-- Thanks for contributing to awesome-vapor :bow: -->
+<!-- Thanks for contributing to awesome-vapor 🙇 -->
 
 <!-- Please fill out the short form below -->
 
-<!-- To mark the checkfields as completed, put an `x` inside the squared brackets, like so: [x] -->
+<!-- To mark the checkboxes as completed, put an `x` inside the squared brackets, like so: [x] -->
 
 - **Project Name**:
 - **Project URL**:
