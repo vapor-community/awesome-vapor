@@ -10,6 +10,17 @@ warn 'Too many changes (when adding, please keep it to one project per Pull Requ
 # Warn if pull request is not updated
 warn 'Please update the Pull Request title to contain the library name' if github.pr_title.include? 'Update README.md'
 
+incorrect_lines = []
+
+File.open('README.md').each_line do |line|
+  next if line !~ /- (?:(!\[v\d\]\(img\/vapor\-\d.png\) ))*\[.+\]\(https?.+\).+/
+  next if line =~ /\) –/ && line =~ /\.$/
+
+  incorrect_lines.push(line)
+end
+
+fail 'Please make sure your submission uses correctly sized dash and ends with a full stop' if incorrect_lines.count > 0
+
 # Check links
 require 'json'
 
