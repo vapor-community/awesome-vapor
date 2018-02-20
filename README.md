@@ -79,7 +79,12 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 
 ## Open-source Projects
 
+- ![v2](img/vapor-2.png) [CocoaHeads Russia](https://github.com/cocoaheadsru/server) – Server side API for the CocoaHeads Russia app.
+- ![v2](img/vapor-2.png) [Server-side Swift Racing](https://github.com/MartinLasek/serversideswift.racing) – Statistics on growth trend of all major server-side swift frameworks.
+- ![v2](img/vapor-2.png) [Starred Search](https://github.com/mjmsmith/starredsearch) – Search READMEs in starred GitHub repositories.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SteamPress](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
+- ![v2](img/vapor-2.png) [VaporBerlin](https://github.com/MartinLasek/vaporberlinBE) – The backend of meetup website for VaporBerlin.
+- ![v2](img/vapor-2.png) [Vapor Chat](https://github.com/vapor-community/chat-example) – A real-time chat client built with Vapor that features an iOS app.
 
 ## License
 
