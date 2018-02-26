@@ -1,8 +1,6 @@
 language: ruby
 cache: bundler
 rvm: 2.4.1
-before_script:
-  - bundle install
 script:
   - bundle exec awesome_bot README.md --white-list travis-ci.org,awesome.re
   - bundle exec danger
