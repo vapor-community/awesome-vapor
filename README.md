@@ -73,7 +73,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 
 ### Newsletters
 
-- [VaporNation](https://twof.github.io/VaporNation/) – Weekly Vapor newsletter with all things Vapor.
+- [VaporNation](http://vapornation.news) – Weekly Vapor newsletter with all things Vapor.
 
 ### Videos
 
