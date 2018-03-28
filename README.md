@@ -40,7 +40,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (Swift).
 - ![v2](img/vapor-2.png) [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) – OAuth2 Provider Library for Vapor.
 - ![v2](img/vapor-2.png) [Vapor OAuth Fluent](https://github.com/brokenhandsio/vapor-oauth-fluent) – Fluent Implementations For Vapor OAuth.
-- ![v2](img/vapor-2.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) – Harden Your Security Headers For Vapor.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) – Harden Your Security Headers For Vapor.
 - ![v3](img/vapor-3.png) [Vapor Test Tools](https://github.com/LiveUI/VaporTestTools) – Helper designed to make testing your endpoints in Vapor 3 pain-free.
 
 ## Tools
