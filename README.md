@@ -50,6 +50,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - [Heroku buildpack: curl with HTTP/2 support](https://github.com/vzsg/heroku-buildpack-curl-http2)
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) – Meta-programming for Swift, stop writing boilerplate code.
 - ![v2](img/vapor-2.png) [Sourcery Templates](https://github.com/nodes-vapor/sourcery-templates) – Building Vapor projects using meta programming with Sourcery.
+- [Swifter](https://github.com/LiveUI/Swifter) – A macOS tool to help you manage your Xcode projects and give you a quick access to DerivedData folder cleaning and management.
 
 ## Services
 
