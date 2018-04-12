@@ -70,7 +70,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [Leaf Part 1 - Getting Started](https://geeks.brokenhands.io/blog/posts/leaf-part-1-getting-started/)
 - ![v2](img/vapor-2.png) [Vapor 2 with Docker](https://bygri.github.io/2018/01/25/vapor-2-with-docker.html) – Definitive Docker guide for Vapor 2.
 - ![v3](img/vapor-3.png) [Vapor 3 with Docker](https://bygri.github.io/2018/01/25/vapor-3-with-docker.html) – Definitive Docker guide for Vapor 3.
-- ![v3](img/vapor-3.png) [Transforming From Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/)  - Transitioning from Vapor 2 to Vapor 3 with a real world project
+- ![v3](img/vapor-3.png) [Transforming From Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) – Transitioning from Vapor 2 to Vapor 3 with a real world project.
 
 ### Books
 
