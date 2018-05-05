@@ -7,7 +7,7 @@ A curated list of:
 - tools to make your development process simpler and more enjoyable
 - and more!
 
-[![Build Status](https://travis-ci.org/Cellane/awesome-vapor.svg?branch=master)](https://travis-ci.org/Cellane/awesome-vapor) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![Build Status](https://travis-ci.org/Cellane/awesome-vapor.svg?branch=master)](https://travis-ci.org/Cellane/awesome-vapor)
 
 ## How to use
 
@@ -25,7 +25,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
 - ![v2](img/vapor-2.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
 - ![v2](img/vapor-2.png) [Lingo Provider](https://github.com/vapor-community/Lingo-Provider) – Vapor provider for Lingo – the Swift localization library.
-- ![v2](img/vapor-2.png) [Markdown Provider](https://github.com/vapor-community/markdown-provider) – Markdown renderer for Vapor.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) – Markdown renderer for Vapor.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) – MongoDB driver in Swift.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) – An alternative codable ORM for MongoDB.
 - ![v2](img/vapor-2.png) [Paginator](https://github.com/nodes-vapor/paginator) – Query pagination for Vapor and Fluent.
@@ -70,6 +70,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [Leaf Part 1 - Getting Started](https://geeks.brokenhands.io/blog/posts/leaf-part-1-getting-started/)
 - ![v2](img/vapor-2.png) [Vapor 2 with Docker](https://bygri.github.io/2018/01/24/vapor-2-with-docker.html) – Definitive Docker guide for Vapor 2.
 - ![v3](img/vapor-3.png) [Vapor 3 with Docker](https://bygri.github.io/2018/01/24/vapor-3-with-docker.html) – Definitive Docker guide for Vapor 3.
+- ![v3](img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) – Big collection of small tutorials.
 - ![v3](img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) – Transitioning from Vapor 2 to Vapor 3 with a real world project.
 
 ### Books
