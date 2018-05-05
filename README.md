@@ -31,6 +31,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) – An alternative codable ORM for MongoDB.
 - ![v3](img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) – Simple Vapor 3 Pagination.
 - ![v2](img/vapor-2.png) [Paginator](https://github.com/nodes-vapor/paginator) – Query pagination for Vapor and Fluent.
+- ![v3](img/vapor-3.png) [S3 Storage](https://github.com/anthonycastelli/s3-storage) – Library for simple access to the Amazon S3 service.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Sanitize](https://github.com/gperdomor/sanitize) – Powerful model extraction from Vapor JSON requests.
 - ![v2](img/vapor-2.png) [Sanitized](https://github.com/nodes-vapor/sanitized) – Safely extract and validate Vapor models from requests.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SendGrid Provider](https://github.com/vapor-community/sendgrid-provider) – SendGrid-powered mail backend for Vapor.
