@@ -25,7 +25,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
 - ![v2](img/vapor-2.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
 - ![v2](img/vapor-2.png) [Lingo Provider](https://github.com/vapor-community/Lingo-Provider) – Vapor provider for Lingo – the Swift localization library.
-- ![v2](img/vapor-2.png) [Markdown Provider](https://github.com/vapor-community/markdown-provider) – Markdown renderer for Vapor.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) – Markdown renderer for Vapor.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) – MongoDB driver in Swift.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) – An alternative codable ORM for MongoDB.
 - ![v2](img/vapor-2.png) [Paginator](https://github.com/nodes-vapor/paginator) – Query pagination for Vapor and Fluent.
