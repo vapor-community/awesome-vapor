@@ -20,7 +20,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [AWS](https://github.com/nodes-vapor/aws) – Swift wrapper around AWS API.
 - ![v2](img/vapor-2.png) [Bugsnag](https://github.com/nodes-vapor/bugsnag) – Report errors with Bugsnag.
 - ![v3](img/vapor-3.png) [CSV Framework](https://github.com/skelpo/CSV) – A simple framework to read and write CSV files.
-- ![v2](img/vapor-2.png) [Flash](https://github.com/nodes-vapor/flash) – Flash messages between views.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Flash](https://github.com/nodes-vapor/flash) – Flash messages between views.
 - ![v2](img/vapor-2.png) [Forms](https://github.com/nodes-vapor/forms) – Tools for working with Forms in Vapor.
 - ![v2](img/vapor-2.png) [Gatekeeper](https://github.com/nodes-vapor/gatekeeper) – Rate limiting middleware for Vapor.
 - ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) – Federated Authentication with OAuth providers.
