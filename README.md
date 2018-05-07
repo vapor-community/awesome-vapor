@@ -24,7 +24,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [Forms](https://github.com/nodes-vapor/forms) – Tools for working with Forms in Vapor.
 - ![v2](img/vapor-2.png) [Gatekeeper](https://github.com/nodes-vapor/gatekeeper) – Rate limiting middleware for Vapor.
 - ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) – Federated Authentication with OAuth providers.
-- ![v2](img/vapor-2.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
 - ![v3](img/vapor-3.png) [JWT Middleware](https://github.com/skelpo/JWTMiddleware) – Middleware to Authenticate and Authorize Requests in Vapor.
 - ![v2](img/vapor-2.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
 - ![v2](img/vapor-2.png) [Lingo Provider](https://github.com/vapor-community/Lingo-Provider) – Vapor provider for Lingo – the Swift localization library.
@@ -41,8 +41,8 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v2](img/vapor-2.png) [Storage](https://github.com/nodes-vapor/storage) – Eases the use of multiple storage and CDN services.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) – Stripe Provider for Vapor.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
-- ![v2](img/vapor-2.png) [Sugar](https://github.com/nodes-vapor/sugar) – A package of sugar for Vapor.
-- ![v2](img/vapor-2.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) – A Telesign provider for Vapor.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Sugar](https://github.com/nodes-vapor/sugar) – A package of sugar for Vapor.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) – A Telesign provider for Vapor.
 - ![v2](img/vapor-2.png) [UAPusher](https://github.com/nodes-vapor/push-urban-airship) – Send push notifications using Urban Airship.
 - ![v2](img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (Swift).
 - ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/twof/VaporMailgunService) – A service to be used with Vapor to send emails.
