@@ -54,8 +54,8 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 
 ## Tools
 
-- [Ether](https://github.com/Ether-CLI/Ether) – A Command-Line Interface for the Swift Package Manager.
 - [Heroku buildpack: curl with HTTP/2 support](https://github.com/vzsg/heroku-buildpack-curl-http2)
+- [Ice](https://github.com/jakeheis/Ice) – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) – Meta-programming for Swift, stop writing boilerplate code.
 - ![v2](img/vapor-2.png) [Sourcery Templates](https://github.com/nodes-vapor/sourcery-templates) – Building Vapor projects using meta programming with Sourcery.
 - [Swifter](https://github.com/LiveUI/Swifter) – A macOS tool to help you manage your Xcode projects and give you a quick access to DerivedData folder cleaning and management.
