@@ -1,10 +1,10 @@
 # Awesome Vapor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of:
+Vapor is currently one of the most popular server-side Swift frameworks. It allows you to take the language you already know if you ever developed an iOS application and use it in a whole new way, to develop fast, scalable and reliable back-end systems that integrate easily with a wide range of third party services. This is a curated list of:
 
-- modern libraries that easily integrate with Vapor and follow Vapor's philosophy of providing simple, clean yet powerful APIs,
-- well-written tutorials, books, videos and education materials,
-- tools to make your development process simpler and more enjoyable
+- modern libraries that easily integrate with Vapor and follow Vapor’s philosophy of providing simple, clean yet powerful APIs;
+- well-written tutorials, books, videos and education materials;
+- tools to make your development process simpler and more enjoyable;
 - and more!
 
 ## Contents
