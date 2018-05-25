@@ -7,7 +7,19 @@ A curated list of:
 - tools to make your development process simpler and more enjoyable
 - and more!
 
-[![Build Status](https://travis-ci.org/Cellane/awesome-vapor.svg?branch=master)](https://travis-ci.org/Cellane/awesome-vapor)
+## Contents
+
+- [How to use](#how-to-use)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Services](#services)
+- [Education](#education)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Newsletters](#newsletters)
+  - [Videos](#videos)
+- [Open-source Projects](#open-source-projects)
+- [License](#license)
 
 ## How to use
 
