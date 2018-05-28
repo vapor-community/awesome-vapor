@@ -49,8 +49,9 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) – Markdown renderer for Vapor.
 - ![v2](img/vapor-2.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) – Vapor provider for Lingo – the Swift localization library.
 - ![v3](img/vapor-3.png) [Local Storage](https://github.com/gperdomor/local-storage) – Storage driver using local filesystem.
-- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) – MongoDB driver in Swift.
+- ![v3](img/vapor-3.png) [MailCore](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) – An alternative codable ORM for MongoDB.
+- ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) – MongoDB driver in Swift.
 - ![v3](img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) – Simple Vapor 3 Pagination.
 - ![v2](img/vapor-2.png) [Paginator](https://github.com/nodes-vapor/paginator) – Query pagination for Vapor and Fluent.
 - ![v3](img/vapor-3.png) [S3](https://github.com/LiveUI/S3) – Library for accessing the Amazon S3 service (and compatible) with support for most commonly used operations.
@@ -76,6 +77,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) – Harden Your Security Headers For Vapor.
 - ![v3](img/vapor-3.png) [Vapor Test Tools](https://github.com/LiveUI/VaporTestTools) – Helper designed to make testing your endpoints in Vapor 3 pain-free.
 - ![v3](img/vapor-3.png) [WKHTMLTOPDF](https://github.com/MihaelIsaev/wkhtmltopdf) – Build PDF files from Leaf templates or web pages through the `wkhtmltopdf` CLI tool.
+- ![v3](img/vapor-3.png) [XMLCoding](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
 
 ## Tools
 
