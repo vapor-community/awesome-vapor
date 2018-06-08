@@ -35,6 +35,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword.
 - ![v3](img/vapor-3.png) [CSV Framework](https://github.com/skelpo/CSV) – A simple framework to read and write CSV files.
 - ![v3](img/vapor-3.png) [Ferno](https://github.com/vapor-community/ferno) – Vapor Firebase Realtime database provider.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Flash](https://github.com/nodes-vapor/flash) – Flash messages between views.
+- ![v3](img/vapor-3.png) [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) – Build complex raw SQL queries while still using Swift keypaths.
 - ![v2](img/vapor-2.png) [Forms](https://github.com/nodes-vapor/forms) – Tools for working with Forms in Vapor.
 - ![v2](img/vapor-2.png) [Gatekeeper](https://github.com/nodes-vapor/gatekeeper) – Rate limiting middleware for Vapor.
 - ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) – Federated Authentication with OAuth providers.
