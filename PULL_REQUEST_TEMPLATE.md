@@ -1,5 +1,8 @@
 <!-- Thanks for contributing to awesome-vapor 🙇 -->
 
+<!-- Please make SURE you create your pull request against the `master` branch! -->
+<!-- The filtered versions for specific versions of Vapor are created automatically! -->
+
 <!-- Please fill out the short form below -->
 
 <!-- To mark the checkboxes as completed, put an `x` inside the squared brackets, like so: [x] -->
