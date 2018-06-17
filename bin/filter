@@ -34,6 +34,8 @@ while read line; do
   fi
 done < README.md
 
+rm -rf vendor
+
 # Push to filtered
 git config user.name "$GITHUB_USERNAME"
 git config user.email "$GITHUB_EMAIL"
