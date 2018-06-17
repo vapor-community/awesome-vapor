@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Automated filter script with Travis CI
+
+# Exit if any subcommand fails
+set -e
+
+# Variables
+ORIGIN_URL=`git config --get remote.origin.url`
+ORIGIN_CREDENTIALS=${ORIGIN_URL/\/\/github.com/\/\/$GITHUB_TOKEN@github.com}
+COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+
+if [ `git branch | grep filtered` ]
+then
+  git branch -D filtered
+fi
+
+git checkout -b filtered
+
+while read line; do
+  if [[ $line = *"[v2]"* ]]; then
+    echo $line >> vapor-2.md
+  fi
+
+  if [[ $line = *"[v3]"* ]]; then
+    echo $line >> vapor-3.md
+  fi
+
+  if [[ $line != *"[v2]"* ]] && [[ $line != *"[v3]"* ]]; then
+    echo $line >> vapor-2.md
+    echo $line >> vapor-3.md
+  fi
+done < README.md
+
+# Push to filtered
+#git config user.name "$GITHUB_USERNAME"
+#git config user.email "$GITHUB_EMAIL"
+
+#git add -fA
+#git commit --allow-empty -m "$COMMIT_MESSAGE [ci skip]"
+#git push -f -q $ORIGIN_CREDENTIALS filtered

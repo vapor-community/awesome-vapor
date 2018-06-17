@@ -2,7 +2,15 @@ language: ruby
 cache: bundler
 rvm: 2.4.1
 script:
-  - bundle exec awesome_bot README.md --white-list travis-ci.org,awesome.re
-  - bundle exec danger
+- bundle exec awesome_bot README.md --white-list travis-ci.org,awesome.re
+- bundle exec danger
+after_success:
+- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/filter"
+env:
+  global:
+  - GITHUB_USERNAME: "Milan Vit"
+  - GITHUB_EMAIL: milanvit@milanvit.net
+  - secure: Uj+o9GhA5eFe331lhfl+ZUNKLxLPZAx2skZlv/wuVFOszc+HFkc8Zst9NM2GrRxUbtDUljmA5QX2LNfY+2Y2i4wiNoR/TiW6y0Qlh05awMUjaERC1cbS/W5IrYmuw/mes7F942DaKQzxy8jsb7/TaFHsNyomEYHubwsD69dysZI6BDDothVIUGmg2t7kLagYDC8P26VdWCmLz7cBX8xsCpcDSevA39moZy0qlsNR7m0EEEb6KYSNUN7U8ha/BrAZDw3ufbqaAbkK+k2Q/n9TcYyzbsjsTWKCeAGzFlVfj47vD/ryZ2PQyY14SCnpdgYUbvYIXdgK+100ao5Lyschf/kzyXQZy9aZBej6S1NQKvmtMfOqE93mCze+v98DCUwTQiPyQz5F33zBtp7pl6hd+cWhonDJALCHx6uIJR2J6Wxr6enXO3H4xgk/GQ2CE8lOtpOfMowzeEo0ybdCNHrZ+9nusJ6HwABekWdD+68P7lEJHAcUZwNREMQO/bfh8w6fyntrJstMjXO2E5+KQVXGjmNM2dpYd+FMgkRpZ3I9X8o5mO0PvcEPaxTD+0bS6sykKpkHdt2ur+vHh22WuYjmGT3di8LHXWevQwkwLTYpHrjm79ptZJarHhEkxu+ZLWHuJwEKyk2i3wvf13Nv5f/Bly1cPqh9qrEy3dzjZd+oQDQ=
+  - secure: Yfa2zjKMPzH9OyVR1/yLLRu7WHGsI7tnKOnteOonRm5c8uWRQKxElU2jpzEs2O3scGkNbPFdsl36gBxDtFWs3NMY447jzKcJlSc6yvv1DICVJr9EyUzbFbM+t8gODLyEQK4eeGHQESwGP3hDgbcKAiH5m5RcXW170fWG/wGHvMs+Pkzmxr30sv4ybrp4bdmqjH99O2Z8ucH42OKpELEBryET9JUo8sRW/Bv7allfO80s4Pudt1UIPg/IkNNhIanrgjm+v1Ob/ZmxoCWQgTljAPyzyBNQt976BDUlVqp/FmfTk1Fg11EY5ULY3zVDE+oMkWgS+s0jNbskZ1dtCuCDuYbwp6YDShaWGu/OhdnQGBMT5E9VNP4mDJJTvUA9wqhAImyfw5utq+eI6IKE47h4tG5oKOJHvv7Hh9EkQ+TZf/DHxfFwc3S0a/uxEz6N/yTO5fCZNIMEAEJT3k9PSAypkFBA/tsnN47p52/TbfBsDalJB4MRQ8J7UNjWpt09aVdJj+a8dTNqAQi/Ml4aQZcHVJkqibz+yWOI9GiegMqbHC4fd8F4nN9E/oayh1KiSqEiom0oBXOUNUttuoPhuwuhCAEZd8Tu5aVfOEAMx2yAHGe8alzvTaH/v8C8RoLcbNOrk2R/o4PpW5EWpldMF6Uf6Qc5Gja9OBeBCd5Jlp78i7U=
 notifications:
   email: false
