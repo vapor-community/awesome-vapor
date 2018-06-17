@@ -23,7 +23,7 @@ Vapor is currently one of the most popular server-side Swift frameworks. It allo
 
 ## How to use
 
-Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 2](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-2.md) or only to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md), you may use the automatically generated filtered lists available on the `filtered` branch.
+Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to Vapor 2 or only to Vapor 3, you may use the automatically generated filtered lists available on the `filtered` branch.
 
 ## Libraries
 
