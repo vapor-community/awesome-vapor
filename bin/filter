@@ -10,6 +10,8 @@ ORIGIN_URL=`git config --get remote.origin.url`
 ORIGIN_CREDENTIALS=${ORIGIN_URL/\/\/github.com/\/\/$GITHUB_TOKEN@github.com}
 COMMIT_MESSAGE=$(git log -1 --pretty=%B)
 
+echo "Filtering started…"
+
 if [ `git branch | grep filtered` ]
 then
   git branch -D filtered
@@ -33,9 +35,13 @@ while read line; do
 done < README.md
 
 # Push to filtered
-#git config user.name "$GITHUB_USERNAME"
-#git config user.email "$GITHUB_EMAIL"
+git config user.name "$GITHUB_USERNAME"
+git config user.email "$GITHUB_EMAIL"
 
-#git add -fA
-#git commit --allow-empty -m "$COMMIT_MESSAGE [ci skip]"
-#git push -f -q $ORIGIN_CREDENTIALS filtered
+git add -fA
+git commit --allow-empty -m "$COMMIT_MESSAGE [ci skip]"
+git push -f -q $ORIGIN_CREDENTIALS filtered
+
+echo "Filtering finished…"
+
+exit 0
