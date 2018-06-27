@@ -10,6 +10,7 @@
 - **Project Name**:
 - **Project URL**:
 - **Project Description**:
+- **Project Category**:
 - **Why it should be added to `awesome-vapor`**:
 - [ ] Project has at least 15 stars (if it's a GitHub project)
 - [ ] Project supports Swift 4
