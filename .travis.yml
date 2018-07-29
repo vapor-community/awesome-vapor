@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 rvm: 2.4.1
 script:
-- bundle exec awesome_bot README.md --white-list travis-ci.org,awesome.re
+- bundle exec awesome_bot README.md --white-list travis-ci.org,awesome.re,vapor.codes
 - bundle exec danger
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/filter"
