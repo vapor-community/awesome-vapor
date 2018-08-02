@@ -40,6 +40,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) – Build complex raw SQL queries while still using Swift keypaths.
 - ![v2](img/vapor-2.png) [Forms](https://github.com/nodes-vapor/forms) – Tools for working with Forms in Vapor.
 - ![v2](img/vapor-2.png) [Gatekeeper](https://github.com/nodes-vapor/gatekeeper) – Rate limiting middleware for Vapor.
+- ![v3](img/vapor-3.png) [Google Cloud Provider](https://github.com/vapor-community/google-cloud-provider) – Interact with Google Cloud Platform APIs from your Vapor project.
 - ![v3](img/vapor-3.png) [Guardian](https://github.com/Jinxiansen/Guardian) – Modern rate-limiting middleware.
 - ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) – Federated Authentication with OAuth providers.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
