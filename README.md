@@ -67,6 +67,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) – A Telesign provider for Vapor.
 - ![v2](img/vapor-2.png) [UAPusher](https://github.com/nodes-vapor/push-urban-airship) – Send push notifications using Urban Airship.
 - ![v2](img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (Swift).
+- ![v3](img/vapor-3.png) [VaporExt](https://github.com/vapor-community/vapor-ext) – A collection of Swift extensions for wide range of Vapor data types and classes.
 - ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/twof/VaporMailgunService) – A service to be used with Vapor to send emails.
 - ![v2](img/vapor-2.png) [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) – OAuth2 Provider Library for Vapor.
 - ![v2](img/vapor-2.png) [Vapor OAuth Fluent](https://github.com/brokenhandsio/vapor-oauth-fluent) – Fluent Implementations For Vapor OAuth.
