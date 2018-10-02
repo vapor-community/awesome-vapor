@@ -79,7 +79,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [Vapor Test Tools](https://github.com/LiveUI/VaporTestTools) – Helper designed to make testing your endpoints in Vapor 3 pain-free.
 - ![v3](img/vapor-3.png) [WKHTMLTOPDF](https://github.com/MihaelIsaev/wkhtmltopdf) – Build PDF files from Leaf templates or web pages through the `wkhtmltopdf` CLI tool.
 - ![v3](img/vapor-3.png) [XMLCoding](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
-- ![v3](img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) – Automatic RESTful CRUD router generation for any Fluent Model
+- ![v3](img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) – Automatic RESTful CRUD router generation for any Fluent Model.
 
 ## Tools
 
