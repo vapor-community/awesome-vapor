@@ -120,7 +120,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If youâ€
 
 ### Videos
 
-- ![v3](img/vapor-3.png) [Server Side Swift with Vapor](https://videos.raywenderlich.com/courses/115-server-side-swift-with-vapor/lessons/1)
+- ![v3](img/vapor-3.png) [Server Side Swift with Vapor](https://www.raywenderlich.com/4493-server-side-swift-with-vapor/lessons/1)
 
 ## Open-source Projects
 
