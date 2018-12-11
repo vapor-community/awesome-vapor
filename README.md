@@ -93,6 +93,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If youâ€
 ## Services
 
 - [Vapor Cloud](https://vapor.cloud)
+- [Swiftpack.co](https://swiftpack.co) - CocoaPods for Swift packages
 
 ## Education
 
