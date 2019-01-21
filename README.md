@@ -63,7 +63,6 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](img/vapor-2.png) [Slugify](https://github.com/nodes-vapor/slugify) – Convenience for sluggifying your strings.
 - ![v2](img/vapor-2.png) [Storage](https://github.com/nodes-vapor/storage) – Eases the use of multiple storage and CDN services.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) – Stripe Provider for Vapor.
-- ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) – Fast prototyping with synchronization and authentication based on Sourcery.
 - ![v3](img/vapor-3.png) [Submissions](https://github.com/nodes-vapor/submissions) – Conveniences for creating forms and validating (form) submissions.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Sugar](https://github.com/nodes-vapor/sugar) – A package of sugar for Vapor.
@@ -89,6 +88,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - [Ice](https://github.com/jakeheis/Ice) – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) – Meta-programming for Swift, stop writing boilerplate code.
 - ![v2](img/vapor-2.png) [Sourcery Templates](https://github.com/nodes-vapor/sourcery-templates) – Building Vapor projects using meta programming with Sourcery.
+- ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) – Fast prototyping with synchronization and authentication based on Sourcery.
 - [Swifter](https://github.com/LiveUI/Swifter) – A macOS tool to help you manage your Xcode projects and give you a quick access to DerivedData folder cleaning and management.
 
 ## Services
