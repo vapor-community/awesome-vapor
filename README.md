@@ -110,6 +110,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [Vapor 3 with Docker](https://bygri.github.io/2018/01/24/vapor-3-with-docker.html) – Definitive Docker guide for Vapor 3.
 - ![v3](img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) – Big collection of small tutorials.
 - ![v3](img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) – Transitioning from Vapor 2 to Vapor 3 with a real world project.
+- ![v3](img/vapor-3.png) [Tutorials for Beginner to Advanced](https://www.medium.com/@martinlasek) – Written tutorials for Beginner to Advanced.
 
 ### Books
 
@@ -123,6 +124,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 ### Videos
 
 - ![v3](img/vapor-3.png) [Server Side Swift with Vapor](https://www.raywenderlich.com/4493-server-side-swift-with-vapor/lessons/1)
+- ![v3](img/vapor-3.png) [Vapor - Beginner to Advanced](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw/videos)
 
 ## Open-source Projects
 
@@ -133,6 +135,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [User Manager Service](https://github.com/skelpo/UserManager) – A small, useful user manager made for production application setups.
 - ![v2](img/vapor-2.png) [VaporBerlin](https://github.com/MartinLasek/vaporberlinBE) – The backend of meetup website for VaporBerlin.
 - ![v2](img/vapor-2.png) [Vapor Chat](https://github.com/vapor-community/chat-example) – A real-time chat client built with Vapor that features an iOS app.
+- ![v2](img/vapor-2.png) [ServerSide.swift](http://www.serversideswift.info/) – Conference website for the world wide server-side Swift conference.
 
 ## License
 
