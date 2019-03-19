@@ -66,6 +66,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [Submissions](https://github.com/nodes-vapor/submissions) – Conveniences for creating forms and validating (form) submissions.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Sugar](https://github.com/nodes-vapor/sugar) – A package of sugar for Vapor.
+- ![v3](img/vapor-3.png) [SwifQL](https://github.com/MihaelIsaev/SwifQL) – Easily build flexible and type-safe SQL with pure Swift.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) – A Telesign provider for Vapor.
 - ![v2](img/vapor-2.png) [UAPusher](https://github.com/nodes-vapor/push-urban-airship) – Send push notifications using Urban Airship.
 - ![v2](img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (Swift).
