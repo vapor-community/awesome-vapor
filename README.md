@@ -46,7 +46,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) – Federated Authentication with OAuth providers.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
 - ![v3](img/vapor-3.png) [JWT Middleware](https://github.com/skelpo/JWTMiddleware) – Middleware to Authenticate and Authorize Requests in Vapor.
-- ![v2](img/vapor-2.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
+- ![v3](img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) – Markdown renderer for Vapor.
 - ![v2](img/vapor-2.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) – Vapor provider for Lingo – the Swift localization library.
 - ![v3](img/vapor-3.png) [Local Storage](https://github.com/gperdomor/local-storage) – Storage driver using local filesystem.
