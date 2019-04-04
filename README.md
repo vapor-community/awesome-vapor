@@ -33,6 +33,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [APNS](https://github.com/vapor-community/apns) – Vapor APNS for iOS.
 - ![v2](img/vapor-2.png) [AWS](https://github.com/nodes-vapor/aws) – Swift wrapper around AWS API.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Bugsnag](https://github.com/nodes-vapor/bugsnag) – Report errors with Bugsnag.
+- ![v3](img/vapor-3.png) [CouchDB Client](https://github.com/makoni/couchdb-vapor) – Simple CouchDB client for Vapor.
 - ![v3](img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) – Automatic RESTful CRUD router generation for any Fluent Model.
 - ![v3](img/vapor-3.png) [CSRF](https://github.com/vapor-community/CSRF) – A package to add protection to Vapor against CSRF attacks.
 - ![v3](img/vapor-3.png) [CSV Framework](https://github.com/skelpo/CSV) – A simple framework to read and write CSV files.
