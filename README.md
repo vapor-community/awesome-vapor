@@ -115,6 +115,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) – Big collection of small tutorials.
 - ![v3](img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) – Transitioning from Vapor 2 to Vapor 3 with a real world project.
 - ![v3](img/vapor-3.png) [Tutorials for Beginner to Advanced](https://medium.com/@martinlasek) – Written tutorials for Beginner to Advanced.
+- ![v3](img/vapor-3.png) [Using the dependency injection framework for testing in Vapor 3 and Swift](https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/) – How to use dependency injection framework which will help you manage dependencies and mock them inside your tests.
 - ![v3](img/vapor-3.png) [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/) – Tutorial on how to use the ImageMagick library in Swift.
 
 ### Books
