@@ -71,7 +71,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
 - ![v2](img/vapor-2.png) ![v3](img/vapor-3.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) – A Telesign provider for Vapor.
 - ![v2](img/vapor-2.png) [UAPusher](https://github.com/nodes-vapor/push-urban-airship) – Send push notifications using Urban Airship.
-- ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/twof/VaporMailgunService) – A service to be used with Vapor to send emails.
+- ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/vapor-community/VaporMailgunService) – A service to be used with Vapor to send emails.
 - ![v2](img/vapor-2.png) [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) – OAuth2 Provider Library for Vapor.
 - ![v2](img/vapor-2.png) [Vapor OAuth Fluent](https://github.com/brokenhandsio/vapor-oauth-fluent) – Fluent Implementations For Vapor OAuth.
 - ![v3](img/vapor-3.png) [Vapor reCAPTCHA](https://github.com/gotranseo/vapor-recaptcha) – Validate Google reCAPTCHAs using Vapor.
