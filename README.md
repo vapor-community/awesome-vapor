@@ -96,14 +96,13 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 ## Services
 
 - [Vapor Cloud](https://vapor.cloud)
-- [Vapor RED](https://vapor.red)
+- [Vapor Red](https://vapor.red)
 
 ## Education
 
 ### Articles
 
 - ![v3](img/vapor-3.png) [Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
-- ![v3](img/vapor-3.png) [Developing and deploying Vapor 3 with Docker](https://tobygriffin.dev/2018/05/14/developing-deploying-vapor-docker.html)
 - ![v2](img/vapor-2.png) [Fluent And Controllers - Part 1](https://geeks.brokenhands.io/blog/posts/fluent-and-controllers-part-1/)
 - ![v2](img/vapor-2.png) [Fluent Part 2 - Parent-Child Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-2-parent-child-relationships/)
 - ![v2](img/vapor-2.png) [Fluent Part 3 - Sibling Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-3-sibling-relationships/)
@@ -111,8 +110,6 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](img/vapor-2.png) [Getting started with Vapor](https://geeks.brokenhands.io/blog/posts/getting-started-with-vapor/)
 - ![v3](img/vapor-3.png) [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
 - ![v2](img/vapor-2.png) [Leaf Part 1 - Getting Started](https://geeks.brokenhands.io/blog/posts/leaf-part-1-getting-started/)
-- ![v2](img/vapor-2.png) [Vapor 2 with Docker](https://tobygriffin.dev/2018/01/24/vapor-2-with-docker.html) – Definitive Docker guide for Vapor 2.
-- ![v3](img/vapor-3.png) [Vapor 3 with Docker](https://tobygriffin.dev/2018/01/24/vapor-3-with-docker.html) – Definitive Docker guide for Vapor 3.
 - ![v3](img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) – Big collection of small tutorials.
 - ![v3](img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) – Transitioning from Vapor 2 to Vapor 3 with a real world project.
 - ![v3](img/vapor-3.png) [Tutorials for Beginner to Advanced](https://medium.com/@martinlasek) – Written tutorials for Beginner to Advanced.
