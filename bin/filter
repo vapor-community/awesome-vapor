@@ -12,25 +12,24 @@ COMMIT_MESSAGE=$(git log -1 --pretty=%B)
 
 echo "Filtering started…"
 
-if [ `git branch | grep filtered` ]
-then
+if [ `git branch | grep filtered` ]; then
   git branch -D filtered
 fi
 
 git checkout -b filtered
 
 while read line; do
-  if [[ $line = *"[v2]"* ]]; then
-    echo $line >> vapor-2.md
-  fi
-
   if [[ $line = *"[v3]"* ]]; then
     echo $line >> vapor-3.md
   fi
 
-  if [[ $line != *"[v2]"* ]] && [[ $line != *"[v3]"* ]]; then
-    echo $line >> vapor-2.md
+  if [[ $line = *"[v4]"* ]]; then
+    echo $line >> vapor-4.md
+  fi
+
+  if [[ $line != *"[v3]"* ]] && [[ $line != *"[v4]"* ]]; then
     echo $line >> vapor-3.md
+    echo $line >> vapor-4.md
   fi
 done < README.md
 

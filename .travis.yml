@@ -2,14 +2,14 @@ language: ruby
 cache: bundler
 rvm: 2.4.1
 script:
-- bundle exec awesome_bot README.md --white-list travis-ci.org,awesome.re,vapor.codes
-- bundle exec danger
+  - bundle exec awesome_bot README.md --white-list travis-ci.org,awesome.re,vapor.codes,github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md
+  - bundle exec danger
 after_success:
-- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/filter"
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/filter"
 env:
   global:
-  - GITHUB_USERNAME: Milan Vit
-  - GITHUB_EMAIL: milanvit@milanvit.net
-  - secure: DD49WLM8jo+iBJPYgR5WiQtLw6k5dO8LO26x9E0IbPhnIU8YlfDKxC9WTyWE9H3eO5D3A7faho1ylvIZiX0J8cwIwe422Z/EquaV8ArS2RiLW2Jky0IEPs4mSgBHc/lpVPWK7QcWT6fknyboyH07kjdVFfKYBgmJ+ocyK/RM6kY38MU7wUu6hqeABqg4U2wma6w/gtoPCZ/PMU01XXa6zYt0CALtosED9cE/B/e2oL94xeDE9mtus8ues0z8xYU+lcM0zcoif7oLO1Ij3BdeJ5qNtKHVrLTrY+WBACF5a95mBf1fCrUuRNrIlSgZz4AlnCuU4KbKkQLAkkZSi7Cpt71jwdxqYs925CxxJuOy7HIrzO9IGaoiD2jPnY9eBFaO3+CHoKeSlrByEdxdi9lIxsoVVOZCeya6zya+Fi/WlkfZDq79AKA02FC0SIU6HXL5H7ZVAXoAgDl6vHNtI+zF27/p6BgC8gz41+Hhkg7DilJSPf5LTNxq6IwB9QE9+BIQsdwy8iKaS05+0erLeKJ2a1oHTRv+yNRs55F7TJmOqlzN8ZWsAPw8SsnnoExzrAixY9XqBIK36ExNjgQTIPN0tYHR7M2wdNUs5LnIsPFZm4g4bCZvaelN5NgfbEwq2AMvATFD+COBNObojZEkQEn5iPY7trOhqWc5dMe2r3BgkIs=
+    - GITHUB_USERNAME: Milan Vit
+    - GITHUB_EMAIL: milanvit@milanvit.net
+    - secure: DD49WLM8jo+iBJPYgR5WiQtLw6k5dO8LO26x9E0IbPhnIU8YlfDKxC9WTyWE9H3eO5D3A7faho1ylvIZiX0J8cwIwe422Z/EquaV8ArS2RiLW2Jky0IEPs4mSgBHc/lpVPWK7QcWT6fknyboyH07kjdVFfKYBgmJ+ocyK/RM6kY38MU7wUu6hqeABqg4U2wma6w/gtoPCZ/PMU01XXa6zYt0CALtosED9cE/B/e2oL94xeDE9mtus8ues0z8xYU+lcM0zcoif7oLO1Ij3BdeJ5qNtKHVrLTrY+WBACF5a95mBf1fCrUuRNrIlSgZz4AlnCuU4KbKkQLAkkZSi7Cpt71jwdxqYs925CxxJuOy7HIrzO9IGaoiD2jPnY9eBFaO3+CHoKeSlrByEdxdi9lIxsoVVOZCeya6zya+Fi/WlkfZDq79AKA02FC0SIU6HXL5H7ZVAXoAgDl6vHNtI+zF27/p6BgC8gz41+Hhkg7DilJSPf5LTNxq6IwB9QE9+BIQsdwy8iKaS05+0erLeKJ2a1oHTRv+yNRs55F7TJmOqlzN8ZWsAPw8SsnnoExzrAixY9XqBIK36ExNjgQTIPN0tYHR7M2wdNUs5LnIsPFZm4g4bCZvaelN5NgfbEwq2AMvATFD+COBNObojZEkQEn5iPY7trOhqWc5dMe2r3BgkIs=
 notifications:
   email: false
