@@ -25,7 +25,7 @@ Thank you for your suggestions!
 Typical reasons for deleting project:
 
 - Doesn’t build with current version of Swift
-- Doesn’t support Vapor 2 or later
+- Doesn’t support Vapor 3 or later
 - No updates / no longer works
 - Deprecated
 
