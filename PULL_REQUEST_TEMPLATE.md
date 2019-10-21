@@ -11,7 +11,7 @@
 - **Project URL**:
 - **Project Description**:
 - **Why it should be added to `awesome-vapor`**:
-- [ ] Project has at least 15 stars (if it's a GitHub project)
-- [ ] Project supports Swift 4
-- [ ] Project supports at least Vapor 2
+- [ ] Project has at least 15 stars (if it’s a GitHub project)
+- [ ] Project supports at least Vapor 3
+- [ ] Project supports at least Swift 5
 - [ ] I used correctly sized dash and ended the entry with a full stop 🤓
