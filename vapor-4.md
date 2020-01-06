@@ -29,6 +29,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If youâ€
 
 ## Libraries
 
+- ![v4](img/vapor-4.png) [FCM](https://github.com/MihaelIsaev/FCM) â€“ Push notifications through FireBase for Vapor 4.
 
 ## Tools
 
