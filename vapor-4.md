@@ -29,6 +29,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If youâ€
 
 ## Libraries
 
+- ![v4](img/vapor-4.png) [VaporCron](https://github.com/MihaelIsaev/VaporCron) â€“ Cron scheduler for Vapor 4.
 
 ## Tools
 
