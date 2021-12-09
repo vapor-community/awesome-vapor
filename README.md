@@ -75,6 +75,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [VaporExt](https://github.com/vapor-community/vapor-ext) – A collection of Swift extensions for wide range of Vapor data types and classes.
 - ![v3](img/vapor-3.png) [WKHTMLTOPDF](https://github.com/MihaelIsaev/wkhtmltopdf) – Build PDF files from Leaf templates or web pages through the `wkhtmltopdf` CLI tool.
 - ![v3](img/vapor-3.png) [XMLCoding](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
+- ![v4](img/vapor-4.png) [APIKeyMiddleware](https://github.com/ptrkstr/APIKeyMiddleware) – Middleware for adding api-key header support.
 
 ## Tools
 
