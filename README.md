@@ -32,6 +32,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [API Error Middleware](https://github.com/skelpo/APIErrorMiddleware) – Vapor middleware for converting thrown errors to JSON responses.
 - ![v3](img/vapor-3.png) [APNS](https://github.com/vapor-community/apns) – Vapor APNS for iOS.
 - ![v3](img/vapor-3.png) [Bugsnag](https://github.com/nodes-vapor/bugsnag) – Report errors with Bugsnag.
+- ![v4](img/vapor-4.png) [ConnectableKit](https://github.com/tugcanonbas/connectable-kit) – Simplifies the response DTOs and JSON structures for API projects.
 - ![v3](img/vapor-3.png) [CouchDB Client](https://github.com/makoni/couchdb-vapor) – Simple CouchDB client for Vapor.
 - ![v3](img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) – Automatic RESTful CRUD router generation for any Fluent Model.
 - ![v3](img/vapor-3.png) [CSRF](https://github.com/vapor-community/CSRF) – A package to add protection to Vapor against CSRF attacks.
