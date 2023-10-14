@@ -51,6 +51,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [Local Storage](https://github.com/gperdomor/local-storage) – Storage driver using local filesystem.
 - ![v3](img/vapor-3.png) [MailCore](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 - ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) – An alternative codable ORM for MongoDB.
+- ![v4](img/vapor-4.png) [Mixpanel](https://github.com/petrpavlik/MixpanelVapor) – Mixpanel SDK intended for server-side Swift apps using Vapor
 - ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) – MongoDB driver in Swift.
 - ![v3](img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) – Simple Vapor 3 Pagination.
 - ![v3](img/vapor-3.png) [Paginator](https://github.com/nodes-vapor/paginator) – Query pagination for Vapor and Fluent.
